@@ -1,0 +1,48 @@
+{
+  "eth_type": {
+    "0800": "IPv4",
+    "86dd": "IPv6",
+    "0806": "ARP",
+    "88cc": "LLDP",
+    "9000": "ECTP"
+  },
+  "protocols": {
+    "11": "UDP",
+    "06": "TCP",
+    "02": "IGMP",
+    "01": "ICMP",
+    "67": "PIM"
+  },
+  "app_protocol": {
+    "20": "FTP-DATA",
+    "21":"FTP-CONTROL",
+    "22": "SSH",
+    "23": "TELNET",
+    "24": "SMPT",
+    "53": "DNS",
+    "80": "HTTP",
+    "110": "POP3",
+    "119": "NNTP",
+    "143": "IMAP",
+    "179": "BGP",
+    "389": "LDAP",
+    "443": "HTTPS",
+    "37": "TIME",
+    "546": "DHCP",
+    "547": "DHCP",
+    "647": "DHCP",
+    "847": "DHCP",
+    "69": "TFTP",
+    "137": "NETBIOS-NS",
+    "138": "NETBIOS-DGM",
+    "139": "NETBIOS-SSN",
+    "1900": "SSDP",
+    "161": "SNMP",
+    "162": "SNMP-TRAP",
+    "514": "SYSLOG",
+    "520": "RIP",
+    "17500": "DB-LSP-DISC",
+    "5353": "MDNS",
+    "33434": "TRACEROUTE"
+  }
+}
