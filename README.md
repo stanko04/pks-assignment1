@@ -7,9 +7,9 @@ Project is implemented in programming language **Python**.
 
 ### Purpose of the project:
 - Design and implement an Ethernet network analyzer that analyzes communications 
-- List and analyse all Ethernet frames to **yaml** file
+- List and analyse all Ethernet frames to [**yaml**](out/out.yaml) file
 
 
 ## For more information click on these links 
 ### [Documentation, analysis of algorithm, description of source code and etc. in slovak language](DOC/doc_assign1.pdf)
-### [Source code](src/Tree.java)
+### [Source code](src/main.py)
